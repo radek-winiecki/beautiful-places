@@ -1,0 +1,85 @@
+/*
+.photo18:hover {
+    border: 0px solid #000;
+    border-radius: 40%;
+
+}
+.photo17:hover {
+    border-radius: 50%;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.photo16:hover {
+    opacity: 0.8;
+    filter: alpha(opacity=20);
+
+}
+.photo15:hover {
+    -webkit-filter: grayscale(100%);
+}
+.photo14:hover {
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+}
+.photo13:hover {
+    box-shadow: 0 0 10px #fff;
+}
+.photo12:hover {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transform: translate3d(-3%, -3%, 0) rotate3d(0, 0, 1, -10deg) scale3d(1, 1, 1);
+    transform: translate3d(-3%, -3%, 0) rotate3d(0, 0, 1, -10deg) scale3d(1, 1, 1);
+}
+.photo11:hover {
+    box-shadow: 0 0 20px #39a5f1;
+}
+.photo10:hover {
+    opacity: 0.8;
+    filter: alpha(opacity=100);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+.photo9:hover {
+    border: 0px solid #39a5f1;
+    border-radius: 20%;
+}
+.photo8:hover {
+    -webkit-filter: grayscale(100%);
+}
+.photo7:hover {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transform: translate3d(3%, 3%, 0) rotate3d(0, 0, 1, 10deg) scale3d(1, 1, 1);
+    transform: translate3d(3%, 3%, 0) rotate3d(0, 0, 1, 10deg) scale3d(1, 1, 1);
+}
+.photo6:hover {
+    border-radius: 50%;
+    -webkit-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+}
+.photo5:hover {
+    -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15);
+}
+.photo2:hover {
+    -webkit-transform: scale(0.95) rotate(5deg);
+    -ms-transform: scale(0.95) rotate(5deg);
+    transform: scale(0.95) rotate(5deg);
+}
+.photo1:hover {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+}
+ */

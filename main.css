@@ -1,0 +1,73 @@
+body {
+    background-color: #191d21;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 20px;
+    color: #efefef;
+}
+
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+}
+
+a:hover {
+    color: #fff;
+}
+
+a:active {
+    color: #fff;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 25px;
+}
+
+.postcard {
+    display: inline-block;
+    width: 460px;
+    text-align: center;
+    padding: 5px;
+}
+
+.postcard p {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 400;
+    color: #39a5f1;
+    margin-top: 45px;
+    margin-bottom: 30px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+/* Hover effect */
+
+.photo {
+    width: 450px;
+    height: 278px;
+    overflow: hidden;
+    transition: all 0.2s ease-in-out;
+}
+
+.photo:hover {
+    box-shadow: 0 0 20px #39a5f1;
+}
+
+.footer {
+    font-size: 17px;
+    color: #39a5f1;
+}
+
